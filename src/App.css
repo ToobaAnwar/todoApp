@@ -31,3 +31,20 @@
     transform: rotate(360deg);
   }
 }
+html{
+  background-color: lightpink;
+}
+button{
+  padding: 10px;
+  background-color: darkorchid;
+  color: lightcyan;
+}
+input, li{
+  padding:  10px;
+}
+.App{
+  padding: 80px;
+}
+h2{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
